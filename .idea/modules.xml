@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/radar.iml" filepath="$PROJECT_DIR$/radar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/radar-meta/radar-meta.iml" filepath="$PROJECT_DIR$/radar-meta/radar-meta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/radar-meta/radar-meta-facade/radar-meta-facade.iml" filepath="$PROJECT_DIR$/radar-meta/radar-meta-facade/radar-meta-facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/radar-runtime/radar-runtime-event/radar-runtime-event.iml" filepath="$PROJECT_DIR$/radar-runtime/radar-runtime-event/radar-runtime-event.iml" />
       <module fileurl="file://$PROJECT_DIR$/radar-runtime/radar-runtime-script/radar-runtime-script.iml" filepath="$PROJECT_DIR$/radar-runtime/radar-runtime-script/radar-runtime-script.iml" />
     </modules>

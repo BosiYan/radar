@@ -7,13 +7,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="radar-meta" />
+        <module name="radar-meta-facade" />
         <module name="radar-runtime-event" />
         <module name="radar-runtime-script" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="radar" target="1.8" />
-      <module name="radar-meta" target="1.7" />
+      <module name="radar-meta" target="1.8" />
+      <module name="radar-meta-facade" target="1.7" />
       <module name="radar-runtime-event" target="1.7" />
       <module name="radar-runtime-script" target="1.7" />
     </bytecodeTargetLevel>
