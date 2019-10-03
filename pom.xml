@@ -12,8 +12,8 @@
 
   <modules>
     <module>radar-meta/radar-meta-facade</module>
-    <module>radar-runtime/radar-runtime-event</module>
-    <module>radar-runtime/radar-runtime-script</module>
+    <module>radar-core/radar-core-event</module>
+    <module>radar-common/radar-common-script</module>
   </modules>
 
   <name>radar</name>

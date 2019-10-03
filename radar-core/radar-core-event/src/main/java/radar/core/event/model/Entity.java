@@ -1,10 +1,12 @@
-package radar.runtime.event.model;
+package radar.core.event.model;
 
 import lombok.Getter;
 import lombok.Setter;
 import radar.meta.enums.ScriptLanguage;
 
-public class Attribute extends Identity{
+import java.util.List;
+
+public class Entity extends Identity {
 
     @Getter
     @Setter
@@ -14,4 +16,7 @@ public class Attribute extends Identity{
     @Setter
     private ScriptLanguage scriptLanguage;
 
+    @Getter
+    @Setter
+    private List<Attribute> attributes;
 }

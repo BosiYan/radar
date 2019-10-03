@@ -1,4 +1,4 @@
-package radar.runtime.event.model.enums;
+package radar.core.event.model.enums;
 
 public enum ScriptLanguage {
 

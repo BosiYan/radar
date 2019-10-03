@@ -10,9 +10,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>radar-runtime-script</artifactId>
+    <artifactId>radar-core-event</artifactId>
 
-    <name>radar-runtime-script</name>
+    <name>radar-core-event</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 

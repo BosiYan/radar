@@ -1,4 +1,4 @@
-package radar.runtime.event.model;
+package radar.core.event.model;
 
 import lombok.Getter;
 import lombok.Setter;

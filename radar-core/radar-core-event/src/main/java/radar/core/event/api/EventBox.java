@@ -1,4 +1,4 @@
-package radar.runtime.event.api;
+package radar.core.event.api;
 
 public interface EventBox {
 

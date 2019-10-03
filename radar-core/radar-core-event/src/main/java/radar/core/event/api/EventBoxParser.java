@@ -1,6 +1,6 @@
-package radar.runtime.event.api;
+package radar.core.event.api;
 
-import radar.runtime.event.model.Event;
+import radar.core.event.model.Event;
 
 import java.util.Map;
 
