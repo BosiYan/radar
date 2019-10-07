@@ -15,5 +15,8 @@ public abstract class Identity {
     @Setter
     public String name;
 
+    @Getter
+    @Setter
+    public String id;
 
 }

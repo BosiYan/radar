@@ -2,6 +2,7 @@ package radar.core.event.model;
 
 import lombok.Getter;
 import lombok.Setter;
+import radar.core.event.model.enums.ScriptLanguage;
 
 import java.util.List;
 
@@ -16,5 +17,8 @@ public class Event extends Identity {
     @Setter
     private List<Entity> entities;
 
+    @Getter
+    @Setter
+    private ScriptLanguage scriptLanguage;
 
 }

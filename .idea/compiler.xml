@@ -17,7 +17,7 @@
     <bytecodeTargetLevel>
       <module name="radar" target="1.8" />
       <module name="radar-common-script" target="1.8" />
-      <module name="radar-core-event" target="1.7" />
+      <module name="radar-core-event" target="1.8" />
       <module name="radar-meta" target="1.8" />
       <module name="radar-meta-facade" target="1.8" />
       <module name="radar-runtime-event" target="1.7" />

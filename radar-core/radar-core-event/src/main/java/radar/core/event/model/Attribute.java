@@ -2,7 +2,7 @@ package radar.core.event.model;
 
 import lombok.Getter;
 import lombok.Setter;
-import radar.meta.enums.ScriptLanguage;
+import radar.core.event.model.enums.ScriptLanguage;
 
 public class Attribute extends Identity{
 
